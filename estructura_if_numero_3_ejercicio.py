@@ -27,4 +27,4 @@ if numero_del_usuario == numero_correcto:
     print ("Ganaste, acertaste el numero")
 
 else:
-    print ("Usaste todos los intentos, fallaste.")
+    print ("Usaste todos los intentos, fallaste xD.")
